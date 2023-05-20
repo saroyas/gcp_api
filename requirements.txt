@@ -3,3 +3,4 @@ tokenizers
 accelerate
 bitsandbytes
 flask
+nvidia-cublas-cu12
